@@ -97,7 +97,6 @@ echo [7]Windows 10 Education N
 echo [8]Windows 10 Enterprise 2015 LTSB
 echo [9]Windows 10 Enterprise 2015 LTSB N
 echo.
-exit
 
 set asw=0
 set /p asw="Please type in your number corresponding to your Installed Windows 10 Edition: "´
